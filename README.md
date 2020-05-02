@@ -34,13 +34,13 @@ $ pip2 install -r requirements.txt
 # [ Running ]
 ```
 $ python2 af2.py
-```
+```src="https://image.ibb.co/TBH30gG/af2.png"/>
 # [ Screenshot ]
-<img src="https://image.ibb.co/iLFhD9/af2.png"/>
+<img src="https://image.ibb.co/TBH30gG/af2.png"/>
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
 
-![](https://image.ibb.co/i4ES3U/bc.png)
+![](https://image.ibb.co/im/bc.png)
 
