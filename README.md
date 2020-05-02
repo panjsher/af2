@@ -29,18 +29,19 @@ $ cd af2
 
 # [ Setup ]
 ```
-$ pip2 install -r requirements.txt
+$ pip2 install -r requirements.src="https://i.ibb.co/XZzR5CP/20200502-124233.jpg"/>
+txt
 ```
 # [ Running ]
 ```
 $ python2 af2.py
-```src="https://image.ibb.co/TBH30gG/af2.png"/>
+```src="https://i.ibb.co/XZzR5CP/20200502-124233.jpg"/>
 # [ Screenshot ]
-<img src="https://image.ibb.co/TBH30gG/af2.png"/>
+<img src="https://i.ibb.co/XZzR5CP/20200502-124233.jpg"/>
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
 
-![](https://image.ibb.co/im/bc.png)
+![](mr af2)
 
