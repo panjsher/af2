@@ -35,9 +35,9 @@ txt
 # [ Running ]
 ```
 $ python2 af2.py
-```src="https://i.ibb.co/XZzR5CP/20200502-124233.jpg"/>
+```
 # [ Screenshot ]
-<a href="https://ibb.co/TBH30gG"><img src="https://i.ibb.co/XZzR5CP/20200502-124233.jpg" alt="20200502-124233" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image hosting</a><br />
+https://ibb.co/TBH30gG
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
