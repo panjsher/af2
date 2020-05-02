@@ -29,8 +29,8 @@ $ cd af2
 
 # [ Setup ]
 ```
-$ pip2 install -r requirements.src="https://i.ibb.co/XZzR5CP/20200502-124233.jpg"/>
-txt
+$ pip2 install -r requirements.txt
+
 ```
 # [ Running ]
 ```
